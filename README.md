@@ -1,6 +1,14 @@
-# New Project
+# Food Trucks Finder
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+## Dependencies
+- React
+- MUI
+- Emotion
+- Leaflet
+- React-leaflet
+- Snowpack
 
 ## Available Scripts
 
